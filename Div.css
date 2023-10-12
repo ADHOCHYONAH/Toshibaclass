@@ -1,0 +1,40 @@
+.fruits{
+    border: 2px solid aquamarine;
+    background-color: darkred;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #ffff;
+}
+.cars{
+    background-color: #c41177;
+    border:  solid 2px black;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: aqua;
+}
+.comp{
+    background-color: #eee313;
+    border:  solid 2px rgba(0, 0, 0, 0.99);
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: #2ca919;
+}
+.laptop{
+    border: 2px solid pink;
+}
+.FRUITS{
+    background-color: #11c4a3;
+    border:  solid 2px black;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: aqua;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+}
